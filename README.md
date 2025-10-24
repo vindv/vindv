@@ -1,16 +1,26 @@
-## Hi there 👋
+### 👋 Hello, I'm Vind!
 
-<!--
-**vindv/vindv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Plugin Developer for PocketMine-MP
+💻 I love working with PHP, JSON and custom systems for Minecraft 
 
-Here are some ideas to get you started:
+--
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ **Tecnologías favoritas:**
+
+- PHP 🐘
+- MySQL 📊
+- Git & GitHub 🔧
+
+---
+
+📈 **Stats:**
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vindv&show_icons=true&theme=tokyonight)
+
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=vindv&layout=compact&theme=tokyonight)
+
+---
+
+📫 **Contact**:
+- Discord: zvind
+- 
