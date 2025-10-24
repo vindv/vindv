@@ -1,7 +1,7 @@
 ### 👋 Hello, I'm Vind!
 
 🎯 Plugin Developer for PocketMine-MP
-💻 I love working with PHP, JSON and custom systems for Minecraft 
+💻 I love working with PHP and custom systems for Minecraft 
 
 --
 
