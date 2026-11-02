@@ -12,4 +12,4 @@ I'm looking forward to learning and working with more languages and tools.
 
 This chart shows the mix of languages in my public, non-forked repositories. It is not a skill score; the percentages change as I add code in different languages.
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vindv&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=vindv&layout=compact)](https://github.com/stats-organization/github-stats-extended)
