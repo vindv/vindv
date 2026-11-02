@@ -7,3 +7,9 @@ I'm learning software development and exploring different programming languages 
 </p>
 
 I'm looking forward to learning and working with more languages and tools.
+
+## Language activity
+
+This chart shows the mix of languages in my public, non-forked repositories. It is not a skill score; the percentages change as I add code in different languages.
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vindv&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
